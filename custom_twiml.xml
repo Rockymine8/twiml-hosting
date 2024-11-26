@@ -1,5 +1,4 @@
 <Response>
-    <Say voice="alice">Hello! This is a custom Twilio call.</Say>
-    <Pause length="2"/>
-    <Say voice="man">Goodbye!</Say>
+    <Say voice="woman">This is an automated test!</Say>
+
 </Response>
